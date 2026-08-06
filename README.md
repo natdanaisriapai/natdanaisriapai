@@ -78,7 +78,7 @@ I enjoy turning research ideas into scalable enterprise AI solutions.
 
 ### AI Engineer | Think Bit Co., Ltd.
 
-> *Nov 2025 – Present*
+> *Nov 2025 – Jul 2026*
 
 - Developed an OCR and document classification system for Thailand's ministerial documents, achieving **90%+ MVP accuracy** with parallel processing for table-heavy pages.
 - Built an end-to-end **Retrieval-Augmented Generation (RAG)** chatbot using OCR to answer product-related queries from enterprise documents.
